@@ -10,7 +10,7 @@ require (
 	github.com/erni27/imcache v1.1.0
 	github.com/getsentry/sentry-go v0.23.0
 	github.com/golang/mock v1.6.0
-	github.com/gomarkdown/markdown v0.0.0-20230922112808-5421fefb8386
+	github.com/gomarkdown/markdown v0.0.0-20240930133441-72d49d9543d8
 	github.com/google/uuid v1.4.0
 	github.com/khulnasoft-lab/go-application-framework v0.0.0-20231114160628-a5f9fc7a9c25
 	github.com/pact-foundation/pact-go v1.7.0
