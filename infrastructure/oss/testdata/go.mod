@@ -13,7 +13,7 @@ require (
 	github.com/go-macaron/session v0.0.0-20190131233854-0a0a789bf193 // indirect
 	github.com/gogs/chardet v0.0.0-20150115103509-2404f7772561 // indirect
 	github.com/gogs/go-libravatar v0.0.0-20161120025154-cd1abbd55d09 // indirect
-	github.com/gogs/gogs v0.11.66
+	github.com/gogs/gogs v0.13.3
 	github.com/gogs/minwinsvc v0.0.0-20170301035411-95be6356811a // indirect
 	github.com/mattn/go-colorable v0.1.2 // indirect
 	github.com/mcuadros/go-version v0.0.0-20190308113854-92cdf37c5b75 // indirect
