@@ -75,7 +75,7 @@ require (
 )
 
 require (
-	github.com/amplitude/analytics-go v1.0.1 // direct
+	github.com/amplitude/analytics-go v1.2.0 // direct
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/go-ole/go-ole v1.3.0 // indirect
