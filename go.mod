@@ -66,7 +66,7 @@ require (
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8 // indirect
 	github.com/spf13/afero v1.10.0 // indirect
 	github.com/spf13/cast v1.5.1 // indirect
-	github.com/spf13/pflag v1.0.5
+	github.com/spf13/pflag v1.0.10
 	github.com/spf13/viper v1.17.0 // indirect
 	golang.org/x/oauth2 v0.14.0
 	google.golang.org/appengine v1.6.7 // indirect
